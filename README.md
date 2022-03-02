@@ -24,7 +24,7 @@
   Kaisen Linux
 
   - 💻 https://kaisenlinux.org/  
-  - ⚡ https://gitlab.com/KaisenCAS
+  - ⚡ https://gitlab.com/kaisenlinux
   - 🐧 https://twitter.com/KaisenLinux
 
 **Install**
