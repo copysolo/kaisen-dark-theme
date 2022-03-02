@@ -39,7 +39,7 @@
 
 - Enjoy 😄
 
-  ![background](F:\ventoy\kaisen\background.png)
+  ![](https://github.com/copysolo/kaisen-dark-theme/blob/main/background.png?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
