@@ -30,10 +30,16 @@
 **Install**
 
 - Git clone 
+
 - Installation de ventoy sur la clé USB
+
 - Créer un dossier ventoy sur la clé usb
+
 - Créer le fichier ventoy.json ou copier coller le mien, '**n'oubliez pas d'éditer le fichier et changer le chemin du thème**'
+
 - Enjoy 😄
+
+  ![background](F:\ventoy\kaisen\background.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
